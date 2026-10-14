@@ -1,0 +1,26 @@
+{
+  "name": "learn_v3",
+  "version": "1.0.0",
+  "description": "This is a read me file tester",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NTailor76/learn_v3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NTailor76/learn_v3/issues"
+  },
+  "homepage": "https://github.com/NTailor76/learn_v3#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
